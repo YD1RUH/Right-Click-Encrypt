@@ -1,5 +1,11 @@
 # 🔐 EncryptDecrypt - AES-256-GCM
 
+<table>
+  <tr>
+    <td><img src="https://github.com/YD1RUH/Right-Click-Encrypt/blob/main/rightclick.png" width="350" height="300"></td>
+  </tr>
+</table>
+
 EncryptDecrypt adalah aplikasi enkripsi dan dekripsi file secara instan menggunakan **AES-256-GCM**.  
 Dengan fitur **klik kanan**, pengguna dapat mengenkripsi dan mendekripsi file dengan mudah.
 
