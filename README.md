@@ -11,7 +11,7 @@ Dengan fitur **klik kanan**, pengguna dapat mengenkripsi dan mendekripsi file de
 
 ## 🚀 Instalasi
 1. **Unduh dan Jalankan Installer**
-   - **[Download EncryptDecrypt.exe](https://github.com/username/repository/releases/latest)**
+   - **[Download EncryptDecrypt.exe](https://github.com/YD1RUH/Right-Click-Encrypt/releases/tag/beta-V1.0)**
    - Jalankan **`EncryptDecrypt_Setup.exe`** untuk menginstal aplikasi.
 
 2. **Konfigurasi Password**
